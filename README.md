@@ -15,7 +15,6 @@ This repository contains a Python script to scrape analytics data from [Krisha.k
     - [Windows](#windows)
     - [Mac](#mac)
     - [Linux](#linux)
-- [License](#license)
 
 ## Requirements
 
@@ -130,9 +129,6 @@ Sometimes, the latest ChromeDriver may not support the latest Chrome browser ver
 4. **Check Compatibility**:
    - Ensure the downloaded Chrome version is compatible with the available ChromeDriver.
 
-## License
-
-This project is licensed under the MIT License.
 
 
 
