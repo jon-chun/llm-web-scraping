@@ -1,7 +1,10 @@
 
-# Krisha.kz Analytics Scraper
+# Benchmarking AI Coding Assistant on Scraping Protected Websites
 
-This repository contains a Python script to scrape analytics data from [Krisha.kz](https://krisha.kz/content/analytics) and save it into a CSV file.
+This repository documents some exploratory results in trying to pair-program with the new Claude 3.5 Sonnet and GPT4o specialized Python GPT on the task of web scraping a particularly difficult webpage that protects it's data. The economic numeric data appears as a roll-over for each of the vertical bars in the main chart.
+
+
+This repo contains a Python script to scrape analytics data from [Krisha.kz](https://krisha.kz/content/analytics) and save it into a CSV file.
 
 ## Table of Contents
 - [Requirements](#requirements)
